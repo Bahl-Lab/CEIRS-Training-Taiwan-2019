@@ -1,1 +1,4 @@
+
+This folder contains multple runs from the Taiwan 2019 BEAST tutorial for further use in the analysis steps post-beast.
+
 https://drive.google.com/drive/folders/1oGENoUxxkr-Hy_J8nGaXyp3-DGIJXJKC?usp=sharing
