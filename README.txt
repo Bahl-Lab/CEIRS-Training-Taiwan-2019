@@ -2,7 +2,14 @@ This repository contains the raw data files for the Molecular Epidemiology tutor
 
 Data was retrieved from GISAID and represents HA protein nucleotide data as well as metadata from Asia in 2017. 
 
+
+Handout order:
+1. Data management 
+2. Molecular  Epi Pipeline
+3. Bayes factor and discrete trait (if intrested in using discrete trait tool)
+
+
 For Mac users the compiled program for RAxML has been provided.
 
 
-Questions? Contact Bahl lab @  Bahl.lab.UGA@gmail.com
+Questions? Contact Lambodhar : ld26524@uga.edu
